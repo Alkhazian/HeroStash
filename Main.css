@@ -1,0 +1,73 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#MainContentBlock {
+    width: 960px;
+    margin: auto;
+    background-color: beige;
+}
+
+#OnHero {
+    height: 100px;
+    width: 430px;
+    background-color: antiquewhite;
+    float: left;
+    margin: 10px;
+}
+
+#Stash {
+    height: 500px;
+    width: 500px;
+    background-color: antiquewhite;
+    float: left;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#headerBlock {
+    width: 100%;
+    height: 50px;
+    background-color: lightgray;
+}
+
+#clear {
+    clear: both;
+}
+
+.ItemColumns {
+    width: 50px;
+    height: 400px;
+    padding: 5px;
+    background-color: green;
+    float: left;
+}
+
+.OnHeroCell {
+    width: 50px;
+    height: 50px;
+    margin-top: 10px;
+    background-color: lightpink;
+}
+
+.OnStashCell {
+    width: 50px;
+    height: 50px;
+    margin-top: 5px;
+    margin-left: 5px;
+    float: left;
+    background-color: lightpink;
+}
+
+#Hero-Column {
+    float: left;
+    width: 310px;
+    height: 410px;
+    background-color: aquamarine;
+}
+
+#testCell {
+    width: 50px;
+    height: 50px;
+    background-color: aqua;
+}
